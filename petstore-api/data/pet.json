@@ -1,0 +1,18 @@
+{
+    "id": 8754,
+    "category": {
+        "id": 0,
+        "name": "string"
+    },
+    "name": "mickey",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        {
+            "id": 0,
+            "name": "mouse"
+        }
+    ],
+    "status": "available"
+}
